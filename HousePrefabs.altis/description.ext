@@ -1,0 +1,11 @@
+class CfgFunctions 
+{
+	#include "SandboxLib\fncs.sqf"
+};
+
+// ---------------- not needed ------------------------
+// respawn 
+respawn = "BASE";
+respawnDelay = 1;
+disabledAI = 1;
+enableDebugConsole = 2;

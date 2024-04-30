@@ -1,0 +1,18 @@
+// existing prefab defined loot tables:
+c_loot_house
+c_loot_house_broken
+c_loot_house_food
+c_holder_airport
+c_holder_garage
+c_loot_house_slum
+c_holder_shed
+c_loot_office
+c_loot_shop
+c_loot_construction
+c_loot_industrial
+c_loot_research
+c_loot_military
+c_loot_military_abandoned
+c_loot_military_tower
+c_loot_military_office
+c_loot_medical
